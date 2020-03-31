@@ -1,0 +1,14 @@
+[
+  {
+    name: "Articulo",
+    value: "ART"
+  },
+  {
+    name: "Sustantivo",
+    value: "SUS"
+  },
+  {
+    name: "Verbo",
+    value: 'VER'
+  }
+]
