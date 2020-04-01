@@ -1,14 +1,14 @@
 [
   {
-    "name": "Articulo",
+    "key": "Articulo",
     "value": "ART"
   },
   {
-    "name": "Sustantivo",
+    "key": "Sustantivo",
     "value": "SUS"
   },
   {
-    "name": "Verbo",
+    "key": "Verbo",
     "value": "VER"
   }
 ]
